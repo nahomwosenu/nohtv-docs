@@ -1,6 +1,6 @@
 # NohTV VR - Immersive IPTV Experience in Virtual Reality
 
-![NohTV VR Logo](https://nohtv.shop/logo.png)
+![NohTV VR Logo](https://nohtv.shop/assets/logo.png)
 
 ## 🎉 Exciting News: NohTV VR Beta Release! 🎉
 
